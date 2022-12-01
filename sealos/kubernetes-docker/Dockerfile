@@ -1,1 +1,1 @@
-FROM docker.io/labring/kubernetes-docker:v1.22.0
+FROM labring/kubernetes-docker:v1.22.0
